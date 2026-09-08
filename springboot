@@ -1,0 +1,35 @@
+Topic #	Topic Name	Topic Objective	
+1	Dependency Injection	Setter Injection	
+		Constructor Injection	
+		Autowiring	
+		Injecting Collections	
+		Inner Beans	
+		Inheritance, Interfaces, Scope	
+2	Spring AOP	Aspect Oriented Programming (AOP) using Spring AOP and AspectJ	
+3	Reading values from Property Files	PropertyPlaceholderConfigurer , ResourceBundleMessageSource	
+4	Spring JDBC and Transactions	Executing Queries, Transaction Management	
+5	Spring MVC Fundamentals	Introduction to Application Servers (Tomcat)	
+		 JSP, Servlets, JSTL	
+6	Spring MVC with Spring Boot	Initializing and Auto Configuring Spring Boot App	
+		Configuring Web App using Spring Boot	
+		Spring MVC Tag Libraries	
+		View Resolvers	
+		Controllers	
+		Internationalization	
+		Data Binding, Validation and Exception Handling	
+7	Spring Data Jpa	Creating Spring Data JPA Prok=jects	
+		Define entity class(@Entity),Entity mapping(many to many,one to one ,one to many)	
+		Repository(Crud repository, Jpa Repository)	
+		JPQL	
+		Crieteria Query	
+		Spring Data Jpa and Transactions	
+		Testing	
+8	Spring rest	Spring rest basics ,spring rest annotations	
+		Handling request and response	
+		Global error handling in Spring rest	
+		Spring rest http methods	
+		Testing Spring rest methods	
+		 	
+		 	
+
+
