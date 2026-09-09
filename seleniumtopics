@@ -1,0 +1,134 @@
+Selenium  Course - TOC		
+Chapter 	Chapter Name	Topic
+Chapter 1	Selenium Basics and overview	Introduction to Browser Automation
+		What is Selenium and Overview
+		History and evolution of Selenium
+		Selenium Components (WebDriver vs Selenium IDE vs Selenium Grid)
+		Supported programming languages (Java, Python, C#, etc.)
+		Cross-browser and cross-platform compatibility. 
+		Advantages and limitations of Selenium
+		HandsON :TekStac Platform
+Chapter 2	Selenium Architeture	"What is Selenium Webdriver: 1) WebDriver is one of the component in selenium. 2) WebDriver is a java interface.
+3) WebDriver is an API( Application Programming interface)"
+		Understanding the WebDriver Architecture / API methods. WebDriver, RemoteWebDriver, ChromeDriver , FirefoxDriver, EdgeDriver etc..
+Chapter 3	Setting up Selenium environment	Installing Java Development Kit (JDK)  and Eclipse IDE 
+		Downloading Selenium WebDriver  
+		Configuring Selenium WebDriver with Eclipse  
+		HandsON :TekStac Platform
+Chapter 4	Selenium WebDriver	Locating GUI Elements in Application Under Test (AUT)
+		How to identify the locators in web page
+		First Selenium Webdriver Script
+		Launching Browsers in Selenium
+		HandsON :TekStac Platform
+Chapter 5	Locating various Web elements	Find Element by Id,Name,Link Text,Partial Link Text,Class Name,CSS ( Tag , ID , Class , Attribute , etc..)
+		Handling Shadow DOM in Selenium
+		HandsON :TekStac Platform
+		Relative Locators and Chained Locators in Selenium
+		"Locating By Xpath (Single Slash, Double Slash , 
+contains(), starts_with() , text() , Last())"
+		HandsON :TekStac Platform
+		Find options in dropdown. Handle dropdown without using Select Class
+		Find Radio Element
+		Find Element by Tag Name
+Chapter 6	Desired capabilities	Desired Capabilities in Selenium WebDriver
+		HandsON :TekStac Platform
+Chapter 7	selenium webDriver commands and Web elements interactions	Selenium WebDriver- Commands
+		Text fields and buttons  
+		Find Element VS  FindElements in Selenium WebDriver - check order
+		Handling Canvas Elements in Selenium
+		Using JavaScript Executor in Selenium
+		HandsON :TekStac Platform
+Chapter 8	WebDriver Actions  	Mouse and keyboard actions
+		Drag and drop  
+		Handling frames and windows  
+		mouse hover (tool tip)  in Selenium
+		Handling tabs & cookies
+		HandsON :TekStac Platform
+Chapter 9	Multiple windows & frames	Switching between windows
+		Switching to frames  & iFrames
+	WebDriver Waits  	Implicit waits  
+		Explicit waits  
+		Fluent waits  
+		HandsON :TekStac Platform
+Chapter 10	Selenium Automation Techniques	Checkbox Handling and Form Submission
+		Locating Web Element Attributes using CSS Selector
+		Locating Web Element Attributes using Absolute XPath Locator
+		HandsON :TekStac Platform
+		Identifying Ancestors of Web Elements
+		Working with alerts
+		Working with Java script executor
+		Working with Regular expression
+		Working with Drag and Drop and Slider
+		HandsON :TekStac Platform
+Chapter 11	Advanced WebDriver techniques	Selenium - ScreenShot
+		Handling JavaScript/window Alerts
+		Headless browsers and drivers in Selenium
+		Handling Dynamic Elements in Selenium
+		HandsON :TekStac Platform
+		1) get methods , 2) conditional methods, 3) browser methods, 4) navigational methods, 5) wait methods
+		How to Find All/Broken links using Selenium Webdriver
+		HandsON :TekStac Platform
+Chapter 12	Calendar using action	Selenium - DatePicker(Actions Class)
+	Apache POI	Apache POI - Read Operation : Excel Read Operation
+		Apache POI - Write Operation: Excel Write Operation
+		Applying POI POM- Flight reservation
+		HandsON :TekStac Platform
+Chapter 13	TestNG Concepts	TestNG Assertions
+		Introduction to TestNG  
+		Creating TestNG test cases  
+		TestNG annotations and assertions  
+		Data-Driven Testing in TestNG
+		Running Tests in Parallel using TestNG
+		HandsON :TekStac Platform
+		Multi-browser testing using TestNG*
+		Rerun failed tests*
+		Set Test priority in TestNG
+		Dependency in TestNG
+		Soft /Hard Assertion in TestNG
+		TestNG Report Generation in Selenium WebDriver*
+		Customize, PDF & Email TestNG Reports in Selenium WebDriver*
+		HandsON :TekStac Platform
+	TestNG Class	TestNG with two test classes
+	Data driven	Data driven from XML + POM : Contact Book- POM structure
+		HandsON :TekStac Platform
+Chapter 14	Test Automation Frameworks	Introduction to Automation Frameworks
+		Data-Driven Testing in Selenium
+		Keyword-Driven Testing Framework in Selenium
+		Page Factory
+		Building a Modular Testing Framework in Selenium
+		HandsON :TekStac Platform
+		Hybrid Framework
+	Design Patterns (POM)	Understanding Page Object Model (POM) in Selenium
+		Creating Page Classes in Selenium
+		HandsON :TekStac Platform
+		Implementing Page Factory in Selenium
+		Design Patterns in Automation using Selenium (Singleton, Factory etc.)
+Chapter 15	Test Data Handling	Reading and Writing Data to Files (e.g., Excel, CSV , XML, JSON) using Java
+		HandsON :TekStac Platform
+		Test Data Parameterization in Selenium
+Chapter 16	Test Report and Test Log 	Generating Detailed Test Reports (Extent Reports, Allure Reports)
+		Screenshot Capture Strategies in Selenium
+		Custom Logging with Log4j in Selenium
+		HandsON :TekStac Platform
+Chapter 17	Selenium Grid  	Introduction to Selenium Grid  
+		Setting up Selenium Grid  
+		Running tests on Selenium Grid  
+		Achieving Parallel Execution in the Cloud
+		Setting up selenium grid in a docker/K8S container
+		HandsON :TekStac Platform
+	Distributed Execution	Running Tests on Cloud-Based Selenium Grids (e.g., Sauce Labs, Browser Stack)
+		Achieving Parallel Execution in the Cloud
+		HandsON :TekStac Platform
+	Maven	Introduction to Maven
+		Creating and Managing Maven Projects
+		Maven Build Lifecycle (e.g., clean, compile, test, package
+	Git Version Control	Introduction to Version Control
+		Git Fundamentals (Commits, Branches, Merges)
+		Git Workflow (Pull Requests
+		Managing Code Repositories on GitHub or GitLab
+		HandsON :TekStac Platform
+	Jenkins CI Systems	Introduction to CI/CD and DevOps
+		Jenkins Overview and Jobs Configuration
+		Integrating Selenium Tests into Jenkins Pipelines
+		Groovy Script Introduction and Syntax
+		HandsON :TekStac Platform
